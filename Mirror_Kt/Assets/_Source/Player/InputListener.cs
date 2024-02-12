@@ -2,7 +2,7 @@ using UnityEngine;
 using Mirror;
 using Zenject;
 
-namespace Player
+namespace PlayerCharacter
 {
     public class InputListener : NetworkBehaviour
     {
